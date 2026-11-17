@@ -1,9 +1,9 @@
 # EXPERIMENT 3 :8086 MICROPROCESSOR – BASIC ARITHMETIC OPERATIONS
 
-## DATE:
-## NAME:
-## ROLL NUMBER:
-## DEPARTMENT:
+## DATE: 17-11-2026
+## NAME: Harini Sri T
+## ROLL NUMBER: RA2511030010356
+## DEPARTMENT: B.Tech CSE w/s Cybersecurity(NWC)
 
 ---
 
@@ -202,26 +202,29 @@ HLT
 ### FIGURE-01: ADDITION OUTPUT
 
 Upload the addition program execution screenshot here.
+<img width="1917" height="472" alt="image" src="https://github.com/user-attachments/assets/5fd51208-3ff3-41b6-8636-e8d0eafd1433" />
 
-![Addition Output](img/addition.png)
 
 ### FIGURE-02: SUBTRACTION OUTPUT
 
 Upload the subtraction program execution screenshot here.
 
-![Subtraction Output](img/subtraction.png)
+<img width="362" height="418" alt="image" src="https://github.com/user-attachments/assets/d9eaf7df-514d-4910-bcc8-cd3f278b2e6d" />
+
 
 ### FIGURE-03: MULTIPLICATION OUTPUT
 
 Upload the multiplication program execution screenshot here.
 
-![Multiplication Output](img/multiplication.png)
+<img width="361" height="387" alt="image" src="https://github.com/user-attachments/assets/0f896e42-8330-41df-89e9-b6eda22fa7fe" />
+
 
 ### FIGURE-04: DIVISION OUTPUT
 
 Upload the division program execution screenshot here.
 
-![Division Output](img/division.png)
+<img width="366" height="382" alt="image" src="https://github.com/user-attachments/assets/46937b3e-01fc-467a-bd3c-fadcd05abba8" />
+
 
 ## RESULT:
 
